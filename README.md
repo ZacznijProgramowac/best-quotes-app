@@ -1,5 +1,7 @@
 # Aplikacja _"Najlepsze cytaty"_ na potrzeby edukacyjne kursu Udemy.
 
+## Wydzielenie kodu do pierwszego komponentu NavbarComponent
+
 **Mój kurs możesz znaleźć pod linkiem:** [Angular - kompletny kurs od podstaw](https://www.udemy.com/course/angular-kompletny-kurs-od-podstaw/?referralCode=58A71AA9B0E86A4D8D88)
 
 **Znadjziesz mnie też na FB:** [https://www.facebook.com/zacznijprogramowac](https://www.facebook.com/zacznijprogramowac)  
@@ -10,9 +12,9 @@ Github: [https://github.com/ZacznijProgramowac/best-quotes-app/tree/master](http
 StackBlitz: [https://stackblitz.com/github/ZacznijProgramowac/best-quotes-app/tree/master](https://stackblitz.com/github/ZacznijProgramowac/best-quotes-app/tree/master)
 
 ## Wersja startowa implementacja w jednym komponencie:
-Github: [https://github.com/ZacznijProgramowac/best-quotes-app/tree/001-one-component-implementation](https://github.com/ZacznijProgramowac/best-quotes-app/tree/001-one-component-implementation)
+Github: [https://github.com/ZacznijProgramowac/best-quotes-app/tree/002-first-navbar-component](https://github.com/ZacznijProgramowac/best-quotes-app/tree/002-first-navbar-component)
 
-StackBlitz: [https://stackblitz.com/github/ZacznijProgramowac/best-quotes-app/tree/001-one-component-implementation](https://stackblitz.com/github/ZacznijProgramowac/best-quotes-app/tree/001-one-component-implementation)
+StackBlitz: [https://stackblitz.com/github/ZacznijProgramowac/best-quotes-app/tree/002-first-navbar-component](https://stackblitz.com/github/ZacznijProgramowac/best-quotes-app/tree/002-first-navbar-component)
 
 
 ## Wymagania projektu
