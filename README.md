@@ -1,5 +1,6 @@
-# Aplikacja _"Najlepsze cytaty"_ na potrzeby edukacyjne kursu Udemy.
+# Aplikacja _"Najlepsze cytaty"_ na potrzeby edukacyjne kursu Udemy. Komunikacja przez Input()
 
+## Info:
 **Mój kurs możesz znaleźć pod linkiem:** [Angular - kompletny kurs od podstaw](https://www.udemy.com/course/angular-kompletny-kurs-od-podstaw/?referralCode=58A71AA9B0E86A4D8D88)
 
 **Znadjziesz mnie też na FB:** [https://www.facebook.com/zacznijprogramowac](https://www.facebook.com/zacznijprogramowac)  
