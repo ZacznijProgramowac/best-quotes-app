@@ -4,20 +4,10 @@
 
 <div class="container q-container">
   <!--Dodawanie cytatu-->
-  <button class="btn-floating teal add-button" (click)="onSwitchForm()">
+  <button class="btn-floating teal add-button">
     <i class="material-icons">add</i>
   </button>
-  <div class="row edit-row" [class.drawer]="showForm">
-    <div class="input-field col s4">
-      <input type="text" placeholder="Autor" [(ngModel)]="quotation.author" />
-    </div>
-    <div class="input-field col s6">
-      <input type="text" placeholder="Cytat" [(ngModel)]="quotation.sentence" />
-    </div>
-    <div class="input-field col s2">
-      <button class="btn small" (click)="addQuotation()">Dodaj</button>
-    </div>
-  </div>
+  <app-form (newQuotation)="onNewQuotation($event)"></app-form>
   <!-- Koniec dodawania cytatu -->
 
   <div class="row">
